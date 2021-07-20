@@ -329,7 +329,7 @@ class App extends Component {
     <tr>
       <td>source</td>
       <td><code>&quot;&quot; | &quot;autoplay&quot; | &quot;touch&quot;</code></td>
-      <td>导致变更的原因</td>
+      <td>导致变更的原因（H5永远为""）</td>
     </tr>
   </tbody>
 </table>
